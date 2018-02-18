@@ -1,0 +1,27 @@
+{
+  "name": "hb-element83",
+  "version": "1.0.0",
+  "description": "Harp Boilerplate",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elem83/hb-element83.git"
+  },
+  "keywords": [
+    "Harp",
+    "Sass"
+  ],
+  "author": "Element83",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elem83/hb-element83/issues"
+  },
+  "homepage": "https://github.com/Elem83/hb-element83#readme"
+}
